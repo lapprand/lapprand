@@ -1,4 +1,4 @@
-![Hi](/hi.gif)
+![Hi](https://github.com/lapprand/lapprand/blob/master/hi.gif?raw=true)
 
 <!--
 **lapprand/lapprand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
