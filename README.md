@@ -1,6 +1,9 @@
 <p align="center">
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://github.com/lapprand/lapprand/blob/master/hi.gif?raw=true">
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lapprand&show_icons=true&count_private=true&theme=yeblu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lapprand&layout=compact&theme=yeblu" />
 </p>
 
 <!--
